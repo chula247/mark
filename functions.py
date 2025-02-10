@@ -34,7 +34,7 @@ employee("Mark","Male","CEO","560000",50)
 employee("John","Male","Marnaging Directer","500000",40)
 employee("Mary","Female","HOD","450000",45)
 
-#A program that displays details of five studentsuse a user-defined function with the paramiteran argument
+#A program that displays details of five students use a user-defined function with the paramiteran argument
 #Fullname,age,course,gender
 
 
